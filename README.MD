@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi 👋
 
 My name is Peter, I am a mathematician with a passion for artificial intelligence. I am currently focused on applying deep reinforcement learning techniques to robot control problems 🤖.
 
