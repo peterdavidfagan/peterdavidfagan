@@ -11,7 +11,7 @@ With this being said please note that I am in the process of revamping my GitHub
 | ----------- | ----------- |
 | `clean-code` | This label is for repositories that are ready to be leveraged by others and have supporting documentation |
 | `class-project` | This label is for repositories that were completed as part of a class project |
-| `maintained` |  This label is for repositories that I actively maintain, feel free to post issues or pull requests on these |
+| `maintained` |  This label is for repositories that I actively maintain |
 | `not-maintained` | This label is for repositories that I do not actively maintain |
 
 
