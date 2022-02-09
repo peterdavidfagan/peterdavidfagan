@@ -15,6 +15,6 @@ With this being said please note that I am in the process of revamping my GitHub
 | `not-maintained` | This label is for repositories that I do not actively maintain |
 
 
-Note: some of the class projects repositories are not as clean as I would like them to be in part due to the fact that they were completed over a short timescale and not actively maintained or developed since. These are included as they still may be useful to others in completing similar projects.
+**Note:** some of the class projects repositories are not as clean as I would like them to be in part due to the fact that they were completed over a short timescale and not actively maintained or developed since. These are included as they still may be useful to others in completing similar projects.
 
 Thanks for stopping by my GitHub profile, if you have any questions relating to my project work feel free to reach out via the email attached to my profile. Have a great rest of the day.
