@@ -1,12 +1,8 @@
-# Hi there 👋
+# Hello 👋
 My name is Peter, I am a roboticist 🤖 with a passion for artificial intelligence. My work and longterm goal is to play a significant role in building 🔧 the next iteration of the robotics stack.
 
-* 🎓 I am currently studying at Stanford University as part of the Graduate Certificate Program in Artificial Intelligence
-* 🧠 I am fascinated with understanding how the mind works
-* 📖 I like to write and have started publishing articles on my [site](https://peterdavidfagan.github.io/)
-* 🏋️‍♂️ When I am not working on robots I love to practice CrossFit
-* 💡 I had a thought to start an open source robotics project called the robot operating brain. This is currently under construction 🏗️ but check back soon for updates.
+Feel free to use code in any of my repos for your own projects. 
 
-I like to collaborate on and even just chat about the above topics, if you would like to do either feel free to reach out to me through social links on the following [page](https://peterdavidfagan.github.io/). 
+Please note that I am in the process of revamping my GitHub profile and the available project work. Most of the projects currently present under my profile are from short class projects and as a result some of these repositories aren't as clean as I would like them to be. I will be updating this README once I have made some of my private repositories with research work 🔬 available, these repositories will be clean 🧼 and have supporting documentation so they can readily be leverage by others.  
 
-Have a great rest of the day and thanks for stopping by my GitHub profile.
+Thanks for stopping by my GitHub profile and have a great rest of the day 🤗.
