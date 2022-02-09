@@ -4,9 +4,18 @@ My name is Peter, I am a roboticist 🤖 with a passion for artificial intellige
 # Using my Code 👾
 Feel free to use code from any of my public repositories for your own projects. 
 
-With this being said please note that I am in the process of revamping my GitHub profile and the available project work. Most of the projects currently present publically under my profile are from short class projects and as a result some of these repositories aren't as clean as I would like them to be. For such projects I will attach the `class-project` label,  in the case where repository is not being maintained I will also include the `not-maintained` label. 
+With this being said please note that I am in the process of revamping my GitHub profile and the available project work. I will use the following labels to classify repositories: 
 
-Repositories that contain the `clean-code` label are those that I believe are ready to be leveraged by others and most of these will contain the `maintained` label. These will include their own supporting documentation and will be based around robotics research projects I publish. This is something I am currently working on, be sure to check back soon for the publishing of some of these repositories.   
+
+| **Label**        | **Description**  |
+| ----------- | ----------- |
+| `clean-code` | This label is for repositories that are ready to be leveraged by others and have supporting documentation |
+| `class-project` | This label is for repositories that were completed as part of a class project |
+| `maintained` |  This label is for repositories that I actively maintain, feel free to post issues or pull requests on these |
+| `not-maintained` | This label is for repositories that I do not actively maintain |
+
+
+Note: some of the class projects repositories are not as clean as I would like them to be in part due to the fact that they were completed over a short timescale and not actively maintained or developed since. These are included as they still may be useful to others in completing similar projects.
 
 # A Message for You 🤗
 Thanks for stopping by my GitHub profile, if you have any questions relating to my project work feel free to reach out via the email attached to my profile. Have a great rest of the day.
