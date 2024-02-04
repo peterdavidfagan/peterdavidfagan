@@ -3,4 +3,4 @@ I'm Peter, a robotics researcher at the [Robust Autonomy and Decisions](https://
 
 My research falls under the umbrella of robot learning, I also like to explore machine learning theory, optimisation and numerical analysis.
 
-<img src="./assets/link_robotics.jpeg" width=80%/>
+<img src="./assets/link_robotics.jpeg" height=80%/>
