@@ -1,3 +1,5 @@
-I am actively looking for roles that leverage technology to improve patient outcomes in healthcare. I've spent the past few months learning about the healthcare industry and working on ways to modernize healthcare through my own project Saoirse Health. I am particularly interested in leveraging technology for preventative medicine by helping to prevent chronic disease through early intervention and education.
+I am currently focused on developing technology for preventative medicine and patient-centered health data systems. My background spans AI, robotics, and systems design. I’ve contributed to large-scale robot data collection for learning from demonstration, built reinforcement learning and imitation learning algorithms for robotic systems, designed new neural architectures for adaptive learning, and introduced methods for privacy-preserving neural inference to support secure handling of data.
 
-I am eager to join a team working in this space, if you are aware of a relevant opportunity please reach out.
+I’m now building Saoirse Health, a platform for secure health data infrastructure and AI-driven clinical workflows, with the goal of improving patient health and modernizing the data systems that underpin the healthcare industry.
+
+My interests outside of work include CrossFit, sea swimming, and hiking.
